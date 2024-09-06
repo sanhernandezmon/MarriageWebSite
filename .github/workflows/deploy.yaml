@@ -19,6 +19,9 @@ jobs:
     - name: Build project
       run: npm run build
 
+    - name: Check environment variable
+      run: echo $GH_TOKEN
+
     - name: Deploy to GitHub Pages
       run: npx gh-pages -d build
       env:
