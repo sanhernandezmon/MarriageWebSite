@@ -6,8 +6,10 @@ import "swiper/css/pagination";
 import { Navigation, Pagination } from "swiper/modules";
 import { Image, Box } from "@chakra-ui/react";
 
-const images = ["/img1.jpg", "/img2.jpg"];
-
+const images = [
+  `${process.env.PUBLIC_URL}/img1.jpg`,
+  `${process.env.PUBLIC_URL}/img2.jpg`,
+];
 const Gallery = () => {
   return (
     <Box w="100%" maxW="600px" maxH="500px" mx="auto" my={5}>
