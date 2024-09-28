@@ -2,7 +2,7 @@
   "name": "our-wedding",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://username.github.io/repository-name",
+  "homepage": "https://sanhernandezmon.github.io/MarriageWebSite/",
   "dependencies": {
     "@chakra-ui/react": "^2.8.2",
     "@emotion/react": "^11.13.3",
