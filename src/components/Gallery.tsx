@@ -7,7 +7,7 @@ import { Navigation, Pagination } from "swiper/modules";
 import { Image, Box } from "@chakra-ui/react";
 
 const images = [
-  `${process.env.PUBLIC_URL}/img1.jpg`, // Use process.env.PUBLIC_URL for relative paths
+  `${process.env.PUBLIC_URL}/img1.jpg`,
   `${process.env.PUBLIC_URL}/img2.jpg`,
 ];
 const Gallery = () => {
