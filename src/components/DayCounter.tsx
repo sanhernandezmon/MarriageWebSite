@@ -1,6 +1,7 @@
 // components/DayCounter.tsx
 import { useState, useEffect } from "react";
 import { Box, Text } from "@chakra-ui/react";
+import { Colors } from "../consts/colors";
 
 const weddingDate = new Date("2025-05-24"); // Replace with your wedding date
 
@@ -20,9 +21,11 @@ const DayCounter = () => {
   }, []);
 
   return (
-    <Box textAlign="center" p={5}>
-      <Text fontSize="2xl">Days until the wedding</Text>
-      <Text fontSize="4xl" fontWeight="bold">
+    <Box textAlign="center" p={5} bg={Colors.PINK_LIGHT}>
+      <Text fontSize="2xl" color={Colors.BLUE_LIGHT}>
+        Cuenta regresiva
+      </Text>
+      <Text fontSize="4xl" color={Colors.BLUE_LIGHT} fontWeight="bold">
         {daysLeft}
       </Text>
     </Box>
