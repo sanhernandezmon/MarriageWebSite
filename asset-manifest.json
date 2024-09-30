@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/MarriageWebSite/static/css/main.6b8e4a89.css",
+    "main.js": "/MarriageWebSite/static/js/main.ca11c456.js",
+    "index.html": "/MarriageWebSite/index.html",
+    "main.6b8e4a89.css.map": "/MarriageWebSite/static/css/main.6b8e4a89.css.map",
+    "main.ca11c456.js.map": "/MarriageWebSite/static/js/main.ca11c456.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6b8e4a89.css",
+    "static/js/main.ca11c456.js"
+  ]
+}
