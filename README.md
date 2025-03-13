@@ -6,7 +6,7 @@ This is a personal project thrilled to share our journey with you as we prepare 
 
 React: A JavaScript library for building user interfaces.
 TypeScript: A typed superset of JavaScript that enhances the development experience.
-Chakra UI: A simple, modular, and accessible component library for React.
+Chakra UI: A simple, modular, and accessible component library for React. 
 
 ## 🚀 Getting Started
 
