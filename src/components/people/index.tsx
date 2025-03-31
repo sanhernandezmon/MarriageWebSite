@@ -5,7 +5,7 @@ import bride2 from "../../images/groomsmen-bridesmaid/lorena.jpg";
 import bride3 from "../../images/groomsmen-bridesmaid/maleja.jpg";
 import bride4 from "../../images/groomsmen-bridesmaid/aleja.jpg";
 import bride5 from "../../images/groomsmen-bridesmaid/pipe.jpg";
-import bride6 from "../../images/groomsmen-bridesmaid/6.jpg";
+import bride6 from "../../images/groomsmen-bridesmaid/sebas-c.jpeg";
 import bride7 from "../../images/groomsmen-bridesmaid/7.jpg";
 import bride8 from "../../images/groomsmen-bridesmaid/sebas.jpg";
 
@@ -36,11 +36,12 @@ const People = () => {
                 <div className="col-lg-3 col-md-6 col-sm-6 grid">
                   <div className="groomsmen-bridesmaid-wrap groomsmen-bridesmaid-wrap-2">
                     <div className="groomsmen-bridesmaid-img">
-                      <img src={bride2} alt="bride" />
+                      <img src={bride4} alt="bride" />
                     </div>
                     <div className="groomsmen-bridesmaid-content">
-                      <h4>Lorena Rodriguez</h4>
-                      <span>Dama de honor</span>
+                    <h4>Alejandra aja </h4>
+                    <span>DAma de honor</span>
+                      
                     </div>
                   </div>
                 </div>
@@ -58,18 +59,18 @@ const People = () => {
                 <div className="col-lg-3 col-md-6 col-sm-6 grid">
                   <div className="groomsmen-bridesmaid-wrap groomsmen-bridesmaid-wrap-2">
                     <div className="groomsmen-bridesmaid-img">
-                      <img src={bride4} alt="bride" />
+                      <img src={bride2} alt="bride" />
                     </div>
                     <div className="groomsmen-bridesmaid-content">
-                      <h4>Alejandra aja </h4>
-                      <span>DAma de honor</span>
+                    <h4>Lorena Rodriguez</h4>
+                    <span>Dama de honor</span>
                     </div>
                   </div>
                 </div>
                 <div className="col-lg-3 col-md-6 col-sm-6 grid">
                   <div className="groomsmen-bridesmaid-wrap groomsmen-bridesmaid-wrap-2">
                     <div className="groomsmen-bridesmaid-img">
-                      <img src={bride5} alt="bride" />
+                      <img src={bride6} alt="bride" />
                     </div>
                     <div className="groomsmen-bridesmaid-content">
                       <h4>Sebastian Chacon</h4>
@@ -80,7 +81,7 @@ const People = () => {
                 <div className="col-lg-3 col-md-6 col-sm-6 grid">
                   <div className="groomsmen-bridesmaid-wrap">
                     <div className="groomsmen-bridesmaid-img">
-                      <img src={bride6} alt="bride" />
+                      <img src={bride5} alt="bride" />
                     </div>
                     <div className="groomsmen-bridesmaid-content">
                       <h4>Felipe prieto</h4>

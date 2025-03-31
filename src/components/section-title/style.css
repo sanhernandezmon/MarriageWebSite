@@ -4,6 +4,7 @@
     font-size:60px;
     position: relative;
     display: inline-block;
+    padding-top: 60px;
 }
 .section-title h2:before{
     position: absolute;
