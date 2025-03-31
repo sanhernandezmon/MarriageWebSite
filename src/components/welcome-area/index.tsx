@@ -1,4 +1,3 @@
-
 import React  from 'react';
 import iglesia from '../../images/iglesia.png'
 import Sectiontitle from '../section-title'
@@ -22,6 +21,11 @@ const Welcome = () => {
       <Sectiontitle mensaje={un_mensaje} />
 
       <table className="invitation-table">
+        <thead>
+          <tr>
+            <th colSpan={2}></th>
+          </tr>
+        </thead>
         <tbody>
           <tr>
             <td>
@@ -37,6 +41,11 @@ const Welcome = () => {
       </table>
 
       <table className="invitation-table">
+        <thead>
+          <tr>
+            <th  colSpan={2}></th>
+          </tr>
+        </thead>
         <tbody>
           <tr>
             <td>
