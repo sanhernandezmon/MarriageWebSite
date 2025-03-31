@@ -1,6 +1,53 @@
 /*===============================
 welcome-area
 =================================*/
+/* Wedding Invitation Table Styles */
+.invitation-table {
+    border-collapse: collapse;
+    margin: 20px auto;
+    background: #f9f9f9;
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 80%;
+    max-width: 800px;
+}
+
+.invitation-table td {
+    padding: 20px;
+    text-align: center;
+    font-family: 'Georgia', serif;
+    font-size: 18px;
+    color: #333;
+    line-height: 1.6;
+}
+
+.invitation-table h2 {
+    font-size: 24px;
+    color: #2c3e50;
+    margin-bottom: 10px;
+}
+
+.invitation-table p {
+    font-size: 16px;
+    color: #555;
+}
+
+.invitation-table img {
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.invitation-table iframe {
+    border: none;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+/* Add some spacing between the two tables */
+.invitation-table + .invitation-table {
+    margin-top: 40px;
+}
 
 .welcome-wrap{
     background: rgba(178,201,211,.1);

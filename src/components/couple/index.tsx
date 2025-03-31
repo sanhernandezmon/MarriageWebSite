@@ -23,7 +23,6 @@ const Couple = () => {
                                     <div className="couple-text">
                                         <div className="couple-content">
                                             <h3>Lina Maria</h3>
-                                            <p>Hola, soy Lina Maria Silva, adorabe profesora de niños, amante de las mascotas.</p>
                                         </div>
                                     </div>
                                 </div>
@@ -36,7 +35,6 @@ const Couple = () => {
                                     <div className="couple-text">
                                         <div className="couple-content">
                                             <h3>Santiago</h3>
-                                            <p>Hola, soy Santi.</p>
                                         </div>
                                     </div>
                                 </div>
