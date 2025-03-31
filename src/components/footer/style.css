@@ -4,6 +4,7 @@
     padding: 120px 0;
     position: relative;
     overflow: hidden;
+    padding-top: calc(image-height + 10px); /* Adjust the padding to reduce space */
   }
 
   .site-footer.s2{
