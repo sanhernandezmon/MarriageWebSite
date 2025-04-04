@@ -22,6 +22,7 @@ const Header = () => {
                                 <ul className="mobail-menu d-flex">
                                     <li><AnchorLink href='#couple'>Nosotros</AnchorLink></li>
                                     <li><AnchorLink href='#people'>Padrinos</AnchorLink></li>
+                                    <li><AnchorLink href='#dressCode'>Codigo de vestimenta</AnchorLink></li>
                                     <li><AnchorLink href='#event'>Detalles</AnchorLink></li>
                                 </ul>
                             </div>

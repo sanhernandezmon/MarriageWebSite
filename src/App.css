@@ -32,7 +32,7 @@ img{
   width: 100%;
 }
 .section-padding{
-  padding: 50px 0 80px;
+  padding: 50px 0px;
 }
 
 .App {
@@ -69,11 +69,6 @@ img{
   }
 }
 
-@media(max-width:767px){
-  .section-padding {
-    padding: 130px 0 100px;
-}
-}
 
 .fixed-navbar {
   position: relative;
@@ -87,7 +82,7 @@ img{
   opacity: 1;
   left: 0;
   width: 100%;
-  background: #85aaba;
+  background: #f4b7f7;
   border: none;
   box-shadow: 0px 1px 5px rgba(0, 0, 0, .1);
     -moz-box-shadow: 0px 1px 5px rgba(0, 0, 0, .1);

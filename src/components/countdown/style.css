@@ -44,9 +44,6 @@
     color: #333;
     font-family: 'Great Vibes', cursive;
 }
-.couple-area{
-    padding-top: 150px!important;
-}
 
 @media (max-width:991px){
     .react-countdown li {
