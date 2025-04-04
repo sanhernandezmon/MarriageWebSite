@@ -21,6 +21,7 @@ const MobileMenu  = () => {
                 <ul className="responsivemenu">
                     <li><AnchorLink href='#couple'>Couple</AnchorLink></li>
                     <li><AnchorLink href='#people'>People</AnchorLink></li>
+                    <li><AnchorLink href='#dressCode'>DressCode</AnchorLink></li>
                     <li><AnchorLink href='#event'>Events</AnchorLink></li>
                 </ul>
                 

@@ -7,8 +7,8 @@ import "./css/font-awesome.min.css";
 import "bootstrap/dist/css/bootstrap.min.css";
 import Footer from "./components/footer";
 import Saveday from "./components/countdown";
-
 import People from "./components/people";
+import DressCode from "./components/dressCode";
 
 const App = () => {
   return (
@@ -20,7 +20,8 @@ const App = () => {
         {/*<Story />*/}
         {/*<Gallery />*/}
         <People />
-        <Welcome/>
+        <DressCode />
+        <Welcome />
         <Footer />
       </div>
     </ChakraProvider>

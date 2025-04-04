@@ -27,6 +27,8 @@ const Welcome = () => {
             <p><strong>Lugar:</strong> La Plazuela, Cogua, Cundinamarca</p>
             <p><strong>Ceremonia religiosa:</strong> 3:00 pm; Iglesia La Plazuela Maria Auxiliadora</p>
             <p><strong>Recepción:</strong> 5:00 pm; Finca El Refugio</p>
+            <br></br>
+            <p><strong>Este es un evento para adultos, solo los pajecitos escogidos nos acompañaran</strong></p>
           </div>
         </div>
 

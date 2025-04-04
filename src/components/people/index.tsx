@@ -6,7 +6,7 @@ import bride3 from "../../images/groomsmen-bridesmaid/maleja.jpg";
 import bride4 from "../../images/groomsmen-bridesmaid/aleja.jpg";
 import bride5 from "../../images/groomsmen-bridesmaid/pipe.jpg";
 import bride6 from "../../images/groomsmen-bridesmaid/sebas-c.jpeg";
-import bride7 from "../../images/groomsmen-bridesmaid/7.jpg";
+import bride7 from "../../images/groomsmen-bridesmaid/fede.jpeg";
 import bride8 from "../../images/groomsmen-bridesmaid/sebas.jpg";
 
 import "./style.css";

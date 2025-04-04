@@ -5,16 +5,16 @@
     position: relative;
     display: inline-block;
     padding-top: 60px;
+    color: #6a1b9a;
 }
 .section-title h2:before{
     position: absolute;
-    top: -80px;
     left: 50%;
     content: "";
-    background: url(../../images/section-title.png);
     width: 100px;
     height: 80px;
     transform: translateX(-50%);
+    color: #6a1b9a;
 }
 .section-title{
     text-align: center;
