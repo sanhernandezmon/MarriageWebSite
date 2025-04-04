@@ -10,7 +10,7 @@ const images = [
 const Couple = () => {
     return(
         <div id="couple" className={"about-wrap"}>
-            <div className="couple-area section-padding">
+            <div className="section-padding">
                 <Sectiontitle mensaje={un_mensaje} />
                 <div className="container">
                     <div className="couple-wrap">

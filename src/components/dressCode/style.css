@@ -1,0 +1,64 @@
+.dress-code-container {
+  text-align: center;
+  padding: 20px;
+  padding-bottom: 30px;
+  background-color: #f9f9f9;
+  border-radius: 10px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.dress-code-title {
+  font-size: 2rem;
+  color: #6a1b9a;
+  margin-bottom: 10px;
+}
+
+.dress-code-description {
+  font-size: 1rem;
+  color: #555;
+  margin-bottom: 20px;
+}
+
+.dress-code-collage {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.dress-code-section {
+  text-align: center;
+}
+
+.dress-code-section h3 {
+  font-size: 1.5rem;
+  color: #6a1b9a;
+  margin-bottom: 10px;
+}
+
+.dress-code-images {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+  flex-wrap: wrap;
+}
+
+.dress-code-image-placeholder {
+  width: 100px;
+  height: 150px;
+  background-color: #e0e0e0;
+  border: 2px dashed #6a1b9a;
+  border-radius: 5px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #6a1b9a;
+  font-size: 0.9rem;
+}
+
+.dress-code-image {
+  width: 100px;
+  height: 150px;
+  object-fit: cover;
+  border: 2px solid #6a1b9a;
+  border-radius: 5px;
+}

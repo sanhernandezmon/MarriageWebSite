@@ -29,10 +29,12 @@ const CountdownTimer = ({ targetDate }: { targetDate: string }) => {
   return (
     <div>
       <Sectiontitle mensaje={"Esperando el gran día"} />
-      <div>
-        {timeLeft.days} días {timeLeft.hours} horas {timeLeft.minutes} minutos{" "}
-        {timeLeft.seconds} segundos
-      </div>
+      <p>
+        <strong>
+          {timeLeft.days} días {timeLeft.hours} horas {timeLeft.minutes} minutos{" "}
+          {timeLeft.seconds} segundos
+        </strong>
+      </p>
     </div>
   );
 };

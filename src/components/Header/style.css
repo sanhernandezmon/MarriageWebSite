@@ -9,7 +9,7 @@
     position: relative;
 }
 .header {
-    background: #be53b6;
+    background: #6a1b9a;
     border-bottom: 1px solid rgba(255,255,255,.1);
     position: absolute;
     width: 100%;
@@ -44,7 +44,7 @@
     padding: 0;
     background: #fff;
     text-align: left;
-    box-shadow: 0px 2px 5px #be53b6;
+    box-shadow: 0px 2px 5px #6a1b9a;
     -webkit-transition: all 0.3s ease 0s;
     -o-transition: all 0.3s ease 0s;
     transition: all 0.3s ease 0s;
@@ -69,7 +69,7 @@
     display: block;
     color:#444;
     padding-bottom: 10px;
-    border-bottom: 1px solid #be53b6;
+    border-bottom: 1px solid #6a1b9a;
 }
 
 @media(max-width:991px){
