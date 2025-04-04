@@ -39,8 +39,8 @@ const People = () => {
                       <img src={bride4} alt="bride" />
                     </div>
                     <div className="groomsmen-bridesmaid-content">
-                    <h4>Alejandra aja </h4>
-                    <span>DAma de honor</span>
+                    <h4>Alejandra Torres </h4>
+                    <span>Dama de honor</span>
                       
                     </div>
                   </div>
