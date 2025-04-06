@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/MarriageWebSite/static/css/main.61ee6a15.css",
+    "main.js": "/MarriageWebSite/static/js/main.603b9783.js",
+    "static/media/women2.jpg": "/MarriageWebSite/static/media/women2.2f9f706a724446087a77.jpg",
+    "static/media/2.jpg": "/MarriageWebSite/static/media/2.286875b2718898ab4584.jpg",
+    "static/media/4.jpg": "/MarriageWebSite/static/media/4.79c50aa277fa69f9aa22.jpg",
+    "static/media/iglesia.png": "/MarriageWebSite/static/media/iglesia.9fd58312265c0dc570b7.png",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/MarriageWebSite/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/lorena.jpg": "/MarriageWebSite/static/media/lorena.358ae678ac4f61a432d9.jpg",
+    "static/media/sebas.jpg": "/MarriageWebSite/static/media/sebas.bb10ec7bcd32d3f19406.jpg",
+    "static/media/women5.jpg": "/MarriageWebSite/static/media/women5.5cb8fde638c2e8ddf474.jpg",
+    "static/media/tania.jpg": "/MarriageWebSite/static/media/tania.1d1b4acb10f03170f256.jpg",
+    "static/media/fontawesome-webfont.eot": "/MarriageWebSite/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/MarriageWebSite/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/maleja.jpg": "/MarriageWebSite/static/media/maleja.3272fc2d55758115eb90.jpg",
+    "static/media/men1.jpg": "/MarriageWebSite/static/media/men1.0d79c25f57b2672c50f5.jpg",
+    "static/media/fede.jpeg": "/MarriageWebSite/static/media/fede.9c91c269363552a8181a.jpeg",
+    "static/media/aleja.jpg": "/MarriageWebSite/static/media/aleja.861840ad099c0acc234b.jpg",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/MarriageWebSite/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/sebas-c.jpeg": "/MarriageWebSite/static/media/sebas-c.21cb6da4b0aaa3ff4676.jpeg",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/MarriageWebSite/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "static/media/vector2.png": "/MarriageWebSite/static/media/vector2.fb3ccb18607029c9d034.png",
+    "static/media/men3.jpg": "/MarriageWebSite/static/media/men3.c898b7408be8bd54f7f2.jpg",
+    "static/media/pipe.jpg": "/MarriageWebSite/static/media/pipe.5c5b9cbe53a12c7dfe02.jpg",
+    "static/media/women4.jpg": "/MarriageWebSite/static/media/women4.1d03bef3ab3fda7afbeb.jpg",
+    "static/media/men4.jpg": "/MarriageWebSite/static/media/men4.f8c63580c4ceccca181f.jpg",
+    "static/media/men2.jpg": "/MarriageWebSite/static/media/men2.25917f0695b71fa5eb2d.jpg",
+    "static/media/women3.jpg": "/MarriageWebSite/static/media/women3.cd1fff086f93ee5c61f4.jpg",
+    "static/media/vector.png": "/MarriageWebSite/static/media/vector.e8402a1969b7012e8deb.png",
+    "static/media/women1.jpg": "/MarriageWebSite/static/media/women1.b4ae63b7df57508d92b6.jpg",
+    "index.html": "/MarriageWebSite/index.html",
+    "main.61ee6a15.css.map": "/MarriageWebSite/static/css/main.61ee6a15.css.map",
+    "main.603b9783.js.map": "/MarriageWebSite/static/js/main.603b9783.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.61ee6a15.css",
+    "static/js/main.603b9783.js"
+  ]
+}
