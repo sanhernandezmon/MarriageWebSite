@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=EB+Garamond:ital,wght@0,400..800;1,400..800&display=swap');
+
 .saveday{
     padding-top: 80px;
 }
@@ -19,6 +21,12 @@
     height: 200px;
     background-size: cover;
 }
+.countdown {
+    font-family: "EB Garamond", serif;
+    font-optical-sizing: auto;
+    font-size: xx-large;
+    color: #2c3e50;
+} 
 
 .saveday.s2 .react-countdown li {
     padding-top: 30px;
