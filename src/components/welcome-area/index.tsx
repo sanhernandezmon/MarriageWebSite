@@ -29,6 +29,8 @@ const Welcome = () => {
             <p><strong>Recepción:</strong> 5:00 pm; Finca El Refugio</p>
             <br></br>
             <h2>Este es un evento para adultos, solo los pajecitos escogidos nos acompañaran</h2>
+            <h2>Nuestro mayor regalo es tu presencia, pero si quieres ayudarnos a empezar esta nueva aventura... </h2>
+            <h2><strong>Prepárate para la lluvia de sobres </strong></h2>
           </div>
         </div>
 
