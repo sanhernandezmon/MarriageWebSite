@@ -28,7 +28,7 @@ const Welcome = () => {
             <p><strong>Ceremonia religiosa:</strong> 3:00 pm; Iglesia La Plazuela Maria Auxiliadora</p>
             <p><strong>Recepción:</strong> 5:00 pm; Finca El Refugio</p>
             <br></br>
-            <p><strong>Este es un evento para adultos, solo los pajecitos escogidos nos acompañaran</strong></p>
+            <h2>Este es un evento para adultos, solo los pajecitos escogidos nos acompañaran</h2>
           </div>
         </div>
 

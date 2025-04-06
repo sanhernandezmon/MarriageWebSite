@@ -23,13 +23,13 @@ const CountdownTimer = ({ targetDate }: { targetDate: string }) => {
   }, 1000);
 
   if (!timeLeft) {
-    return <div>¡El tiempo ha terminado!</div>;
+    return <div className="countdown">¡El tiempo ha terminado!</div>;
   }
 
   return (
     <div>
       <Sectiontitle mensaje={"Esperando el gran día"} />
-      <p>
+      <p className="countdown">
         <strong>
           {timeLeft.days} días {timeLeft.hours} horas {timeLeft.minutes} minutos{" "}
           {timeLeft.seconds} segundos

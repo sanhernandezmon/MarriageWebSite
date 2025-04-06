@@ -9,14 +9,17 @@ import women2 from "../../images/dressCode/women2.jpg";
 import women3 from "../../images/dressCode/women3.jpg";
 import women4 from "../../images/dressCode/women4.jpg";
 import women5 from "../../images/dressCode/women5.jpg";
+import Sectiontitle from "../section-title";
 
 const DressCode = () => {
   return (
     <div className="dress-code-container" id="dressCode">
-      <h2 className="dress-code-title">Código de Vestimenta</h2>
-      <p className="dress-code-description">
-        Prepárense para una velada llena de amor, buena música y momentos mágicos.
-      </p>
+      <Sectiontitle mensaje={"Código de Vestimenta"} />
+      <div className="dress-code-description">
+        <h2>
+          Preparate para una velada llena de amor, buena música y momentos mágicos.
+        </h2>
+      </div>
       <p className="dress-code-description">
         <strong>Código de vestimenta:</strong> Tipo Coctel 
       </p>
@@ -29,9 +32,11 @@ const DressCode = () => {
       <p className="dress-code-description">
         <strong>Para ellos</strong> colores claros
       </p>
-      <p className="dress-code-description">
-        ¡Vístanse con estilo y listos para bailar toda la noche!
-      </p>
+      <div className="dress-code-description">
+        <h2>
+        ¡Vístete con estilo y listos para bailar toda la noche!
+        </h2>
+      </div>
       <div className="dress-code-collage">
         <div className="dress-code-section">
           <h3>Para Ellos</h3>
