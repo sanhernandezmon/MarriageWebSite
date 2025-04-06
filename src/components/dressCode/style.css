@@ -1,3 +1,6 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=EB+Garamond:ital,wght@0,400..800;1,400..800&display=swap');
+
 .dress-code-container {
   text-align: center;
   padding: 20px;
@@ -14,10 +17,16 @@
 }
 
 .dress-code-description {
-  font-size: 1rem;
+  font-size: 20px;
   color: #555;
   margin-bottom: 20px;
 }
+.dress-code-description h2 {
+    font-family: "EB Garamond", serif;
+    font-optical-sizing: auto;
+    font-size: x-large;
+    color: #2c3e50;
+} 
 
 .dress-code-collage {
   display: flex;
@@ -30,7 +39,7 @@
 }
 
 .dress-code-section h3 {
-  font-size: 1.5rem;
+  font-size: 30px;
   color: #6a1b9a;
   margin-bottom: 10px;
 }
