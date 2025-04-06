@@ -73,7 +73,7 @@ const People = () => {
                       <img src={bride6} alt="bride" />
                     </div>
                     <div className="groomsmen-bridesmaid-content">
-                      <h4>Sebastian Chacon</h4>
+                      <h4>Sebastian Chacón</h4>
                       <span>Padrino</span>
                     </div>
                   </div>
@@ -84,7 +84,7 @@ const People = () => {
                       <img src={bride5} alt="bride" />
                     </div>
                     <div className="groomsmen-bridesmaid-content">
-                      <h4>Felipe prieto</h4>
+                      <h4>Felipe Prieto</h4>
                       <span>Best-man</span>
                     </div>
                   </div>
